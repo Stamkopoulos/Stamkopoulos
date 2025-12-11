@@ -9,12 +9,10 @@
   <p>-📫 Feel free to reach out at <a href="mailto:johnstamkopoulos@gmail.com">johnstamkopoulos@gmail.com</a></p>
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/IoannisStamkopoulos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:johnstamkopoulos@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ioannis-stamkopoulos-36a7901b8/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Ioannis Stamkopoulos" height="30" width="40" />
   </a>
 </p>
 
@@ -38,12 +36,7 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
 </br>
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-  <a href="https://linkedin.com/in/IoannisStamkopoulos" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Ioannis Stamkopoulos" height="30" width="40" />
-  </a>
-</p>
+
 
 <h2 align="center">Statistics</h2>
 <div align="center">
